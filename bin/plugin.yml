@@ -1,0 +1,7 @@
+name: LightManagerEvolve
+main: fr.vallfeur.lme.Main
+author: le_vallfeur
+version: 0.1
+api-version: 1.16
+commands:
+    lighter:
