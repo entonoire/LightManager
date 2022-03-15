@@ -1,0 +1,7 @@
+name: lightmanager
+main: fr.vallfeur.lm.Main
+author: le_vallfeur
+version: 0.1
+api-version: 1.16
+commands:
+    light:
